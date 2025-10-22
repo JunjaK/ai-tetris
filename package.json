@@ -1,0 +1,17 @@
+{
+  "name": "ai-tetris",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^2.10.0",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "nuxt": "^3.11.2"
+  }
+}
